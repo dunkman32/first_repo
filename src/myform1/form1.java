@@ -81,6 +81,7 @@ public class form1 {
 					while(s.hasNext()) {
 						tmp += s.nextLine() + System.getProperty("line.separator");
 					}
+					// hala madrid y nada mas!!!
 					File file = new File("src/myform1/zura.txt");
 			         try (OutputStreamWriter bufferedWriter = 
 			                 new OutputStreamWriter(
